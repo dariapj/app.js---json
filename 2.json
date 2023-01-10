@@ -1,0 +1,51 @@
+[
+    {
+        "title": "News 1",
+        "src":"1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    }, {
+        "title": "News 2",
+        "src":"1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 3",
+        "src": "1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 4",
+        "src": "1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 4",
+        "src": "1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 4",
+        "src": "1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 4",
+        "src": "1.png",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quisquam a vitae eum libero deserunt tempore perferendis provident accusamus incidunt assumenda ad impedit dicta, vero voluptatibus exercitationem nulla dolores",
+        "name": "Jack Black",
+        "parent": ".articles"
+    }
+]
+

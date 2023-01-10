@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+header{
+background-color: purple;
+text-align: center;
+line-height: 100px;
+color: white;
+font-size: 35px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-6{
+flex:  0 0 50%;
+max-width: 50%;
+padding-left: 15px;
+padding-right: 15px;
+}
